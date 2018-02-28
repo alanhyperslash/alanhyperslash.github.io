@@ -4,6 +4,16 @@
     <title>Vancouver: Tourist attractions</title>
   </head>
   <body>
+  <ul>
+    <li><a href=#capilano>Capilano Suspension Bridge Park</a></li>
+    <li><a href=#aquarium>Vancouver Aquarium</a></li>
+    <li><a href=#vrfe>Virtual Flying Experience</a></li>
+    <li><a href=#grouse.m>Grouse Mountain</a></li>
+    <li><a href=#granville>Granville Island</a></li>
+  </ul>
+  <ol>
+  <h1>Places to visit and explore while in vancouver</h1>
   
+  </ol>
   </body>
 </html>
