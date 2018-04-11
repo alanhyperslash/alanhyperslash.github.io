@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    .footing,
+    .heading {
+      background-color: #00ff90;
+      color: #0c00ff;
+      padding: 15px;
+    }
+
+    .background {
+      background-color: #92f0f4;
+      padding-bottom: 15px;
+    }
+
+    .footing {
+      float: bottom;
+    }
+
+    .clearfix::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+    li a:hover {
+      background-color: #323232;
+    }
+
+    li a {
+      display: block;
+      padding: 16px;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      float: left;
+    }
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #111111;
+    }
+
+    .academic img {
+      float: right;
+    }
+
+  </style>
+
+  <head>
+    <title>Electronic portfolio</title>
+  </head>
+
+  <body>
+    <div class="clearfix">
+      <div class="background">
+        <div class="heading">
+          <h1>
+            Electronic Portfolio
+          </h1>
+        </div>
+        <ul>
+          <li><a href="https://alanhyperslash.github.io/electronic_portfolio/hub.html">Hub</a></li>
+          <li><a href="https://alanhyperslash.github.io/electronic_portfolio/academic_history.html">Academic History</a></li>
+          <li><a href="https://alanhyperslash.github.io/electronic_portfolio/work_and_volounteer.html">Work And Volunteer Experience</a></li>
+          <li><a href="https://alanhyperslash.github.io/electronic_portfolio/academic_achievments.html">Academic Achievements</a></li>
+        </ul>
+        <div class="academic">
+          <img src="https://cdn.media.yp.ca/7498420/ContentInjectionCoupler-1879705-4_r.jpg" width=400>
+          <h4>
+            I've had experience working at my family's grocery store, stocking<br>shelves with my dad, and practicing cashier work with my mom.<br><br>I've volunteered to sell poppies for charity on Rememberance Day.<br><br>I worked at Golden Spoon for
+            11 months.
+          </h4>
+          <br><br><br><br><br><br><br><br><br>
+          <img src="http://lh3.googleusercontent.com/-DdMvG2OFBYc/T0NR_czmcxI/AAAAAAAAoBE/z4sqe7lW6cA/s0/golden%252520spoon%2525201.jpg" height=375><br><br><br><br><br><br>
+          <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </div>
+      </div>
+      <div class="footing">
+        <h1>
+
+        </h1>
+      </div>
+    </div>
+  </body>
+
+</html>
 
